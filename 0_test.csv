@@ -1,17 +1,4 @@
 name|Latitude|Longitude|description|Höhe|Nr|Datum
-
-
-
-
-
-
-
-
-
-
-
-
-
 Hoher Fricken (1940m)|47.53135|11.15316|"{{https://raw.githubusercontent.com/lku-dev/umap-daten/main/images/img_1759130799743.jpg}}<br>**Erstiegen am:** 10. Mai '25<br>**Details:** "|1940|193|10.05.2025
 Ochsenkamp (1594m)|47.66610989466631|11.66603207588196|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Ochsenkamp.jpg}}<br>**Erstiegen am:** 1. Mai '25<br>**Details:** "|1594|192|01.05.2025
 Auerkamp (1607m)|47.661160306643325|11.659873723983766|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Auerkamp.jpg}}<br>**Erstiegen am:** 1. Mai '25<br>**Details:** "|1607|192|01.05.2025
@@ -29,15 +16,10 @@ Schildenstein (1613m)|47.594753|11.724987|"{{https://cloud.cim.de/public.php/dav
 Lacherspitz (1724m)|47.699025|12.023184|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Lacherspitz.jpg}}<br>**Erstiegen am:** 30. Nov. '24<br>**Details:** "|1724|182|30.11.2024
 Bleispitze (2225m)|47.398117|10.818357|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Bleispitze.jpg}}<br>**Erstiegen am:** 17. Nov. '24<br>**Details:** "|2225|181|17.11.2024
 Brentenjoch (2000m)|47.532386|10.582323|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Brentenjoch.jpg}}<br>**Erstiegen am:** 9. Nov. '24<br>**Details:** "|2000|180|09.11.2024
-
 Heiterwand (2639m)|47.314155|10.73287|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Heiterwand.jpg}}<br>**Erstiegen am:** 7. Nov. '24<br>**Details:** "|2639|179|07.11.2024
-
 Eiskarlspitze (2610m)|47.376999|11.558754|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Eiskarlspitze.jpg}}<br>**Erstiegen am:** 1. Nov. '24<br>**Details:** "|2610|178|01.11.2024
-
 Spritzkarspitze (2606m)|47.381259|11.55148|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Spritzkarspitze.jpg}}<br>**Erstiegen am:** 1. Nov. '24<br>**Details:** "|2606|178|01.11.2024
-
 Hochglück (2573m)|47.374045|11.571651|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Hochgl%C3%BCck.jpg}}<br>**Erstiegen am:** 1. Nov. '24<br>**Details:** "|2573|178|01.11.2024
-
 Namloser Wetterspitze (2553m)|47.323174|10.641546|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Namloser%20Wetterspitze.jpg}}<br>**Erstiegen am:** 26. Okt. '24<br>**Details:** "|2553|177|26.10.2024
 Große Seekarspitze (2677m)|47.404873|11.390827|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Gro%C3%9Fe%20Seekarspitze.jpg}}<br>**Erstiegen am:** 17. Okt. '24<br>**Details:** hallo"|2677|176|17.10.2024
 Wettersteinwand (2483m)|47.422318|11.166401|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Wettersteinwand.jpg}}<br>**Erstiegen am:** 15. Okt. '24<br>**Details:** "|2483|175|15.10.2024
@@ -200,15 +182,6 @@ Grasleitenkopf (1433m)|47.653854|11.629758|"{{https://cloud.cim.de/public.php/da
 Branderschrofen (1881m)|47.559369|10.786943|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Branderschrofen.jpg}}<br>**Erstiegen am:** 23. Mai '21<br>**Details:** Hohenschwangau; Tegelberg über Gelbe-Wand-Steig"|1881|53|23.05.2021
 Staffel (1526m)|47.585751|11.467581|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Staffel.jpg}}<br>**Erstiegen am:** 16. Mai '21<br>**Details:** Jachenau"|1526|52|16.05.2021
 Fleischbank (2028m)|47.478963|11.519251|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Fleischbank.jpg}}<br>**Erstiegen am:** 9. Mai '21<br>**Details:** Hinterriß; Kurz nach Mautstation"|2028|51|09.05.2021
-
-
-
-
-
-
-
-
-
 Schartenkopf (1636m)|47.583131|11.097629|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Schartenkopf.jpg}}<br>**Erstiegen am:** 8. Mai '21<br>**Details:** Oberammergau; (Parkplatz Vogelherdweg, SW-Aufstieg)"|1636|50|08.05.2021
 Latschenköpferl (1509m)|47.58207|11.088359|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Latschenk%C3%B6pferl.jpg}}<br>**Erstiegen am:** 8. Mai '21<br>**Details:** Oberammergau; (Parkplatz Vogelherdweg, SW-Aufstieg)"|1509|50|08.05.2021
 Wildalpjoch (1720m)|47.701322|12.035437|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Wildalpjoch.jpg}}<br>**Erstiegen am:** 1. Mai '21<br>**Details:** Unteres Sudelfeld, Bayrischzell"|1720|49|01.05.2021
@@ -227,19 +200,13 @@ Frieder (2053m)|47.521751|10.95957|"{{https://cloud.cim.de/public.php/dav/files/
 Wallberg (1722m)|47.665893|11.79672|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Wallberg.jpg}}<br>**Erstiegen am:** 28. März '21<br>**Details:** Tegernsee"|1722|43|28.03.2021
 Geierstein (1491m)|47.679634|11.619072|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Geierstein.jpg}}<br>**Erstiegen am:** 13. März '21<br>**Details:** Lenggries"|1491|41|13.03.2021
 Zinnenberg (1565m)|47.732522|12.265463|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Zinnenberg.jpg}}<br>**Erstiegen am:** 7. März '21<br>**Details:** Chiemgau"|1565|40|07.03.2021
-
 Jochberg (1565m)|47.625923|11.371837|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Jochberg.jpg}}<br>**Erstiegen am:** 6. März '21<br>**Details:** Walchensee"|1565|39|06.03.2021
-
 Hennenkopf (1768m)|47.58631|10.960493|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Hennenkopf_1768.jpg}}<br>**Erstiegen am:** 28. Feb. '21<br>**Details:** Linderhof"|1768|38|28.02.2021
-
 Wank (1780m)|47.508715|11.143023|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Wank.jpg}}<br>**Erstiegen am:** 25. Feb. '21<br>**Details:** Garmisch"|1780|37|25.02.2021
-
 Leonhardstein (1452m)|47.637045|11.716189|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Leonhardstein.jpg}}<br>**Erstiegen am:** 24. Feb. '21<br>**Details:** Kreuth"|1452|36|24.02.2021
-
 Hochplatte (1586m)|47.751098|12.405024|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Hochplatte_1586.jpg}}<br>**Erstiegen am:** 6. Feb. '21<br>**Details:** Marquartstein, Chiemgau"|1586|35|06.02.2021
 Breitenberg (1838m)|47.548581|10.55181|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Breitenberg.jpg}}<br>**Erstiegen am:** 24. Jan. '21<br>**Details:** Steinach, Prfonten"|1838|34|24.01.2021
 Stierkopf (1533m)|47.635492|11.074991|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Stierkopf.jpg}}<br>**Erstiegen am:** 16. Jan. '21<br>**Details:** Unterammergau"|1533|33|16.01.2021
-
 Hint. Hörnl (1548m)|47.638758|11.074519|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Hint.%20H%C3%B6rnl.jpg}}<br>**Erstiegen am:** 16. Jan. '21<br>**Details:** Unterammergau"|1548|33|16.01.2021
 Schafreuter (2102m)|47.50894|11.487579|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Schafreuter.jpg}}<br>**Erstiegen am:** 10. Jan. '21<br>**Details:** Vorderriß"|2102|32|10.01.2021
 Buchstein (1701m)|47.633089|11.679368|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Buchstein.jpg}}<br>**Erstiegen am:** 9. Jan. '21<br>**Details:** Kreuth, Tegernsee"|1701|31|09.01.2021
@@ -248,16 +215,6 @@ Rotwand (1884m)|47.650197|11.934414|"{{https://cloud.cim.de/public.php/dav/files
 Scheinbergspitze (1929m)|47.554581|10.887451|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Scheinbergspitze.jpg}}<br>**Erstiegen am:** 4. Jan. '21<br>**Details:** Oberammergau"|1929|29|04.01.2021
 Kratzer (1545m)|47.665592|11.705418|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Kratzer.jpg}}<br>**Erstiegen am:** 29. Dez. '20<br>**Details:** Scharling, Tegernsee"|1545|28|29.12.2020
 Hirschberg (1668m)|47.660753|11.696084|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Hirschberg_1668.jpg}}<br>**Erstiegen am:** 29. Dez. '20<br>**Details:** Scharling, Tegernsee"|1668|28|29.12.2020
-
-
-
-
-
-
-
-
-
-
 Brauneck (1555m)|47.664182|11.524798|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Brauneck.jpg}}<br>**Erstiegen am:** 27. Dez. '20<br>**Details:** Lenggries"|1555|27|27.12.2020
 Wendelstein (1838m)|47.703466|12.012037|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Wendelstein.jpg}}<br>**Erstiegen am:** 20. Dez. '20<br>**Details:** Bayrischzell"|1838|26|20.12.2020
 Simetsberg (1840m)|47.566562|11.253691|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Simetsberg.jpg}}<br>**Erstiegen am:** 19. Dez. '20<br>**Details:** Einsiedl, Walchensee"|1840|25|19.12.2020
@@ -285,22 +242,4 @@ Wildes Mannle (3019m)|46.873779|10.893803|"{{https://cloud.cim.de/public.php/dav
 Guffert (2194m)|47.546234|11.78863|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Guffert.jpg}}<br>**Erstiegen am:** 4. Juli '20<br>**Details:** Steinberg am Rofan; über Normalweg"|2194|5|04.07.2020
 Demeljoch (1923m)|47.546136|11.586413|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Demeljoch.jpg}}<br>**Erstiegen am:** 1. Juni '20<br>**Details:** Sylvenstein"|1923|3|01.06.2020
 Rabenkopf (1555m)|47.65033|11.411963|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Rabenkopf.jpg}}<br>**Erstiegen am:** 22. Mai '20<br>**Details:** Kochel am See; über Rappinschlucht"|1555|2|22.05.2020
-Rechelkopf (1330m)|47.722293|11.624694|"{{https://raw.githubusercontent.com/lku-dev/umap-daten/main/images/Rechelkopf.jpg}}<br>**Erstiegen am:** 17. Mai '20<br>**Details:** Lehen, Gaißach"|1330|1|17.05.2020
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Rechelkopf (1330m)|47.722293|11.624694|"{{https://cloud.cim.de/public.php/dav/files/GWfLJPP8DwgEtQ3/Rechelkopf.jpg}}<br>**Erstiegen am:** 17. Mai '20<br>**Details:** Lehen, Gaißach"|1330|1|17.05.2020
